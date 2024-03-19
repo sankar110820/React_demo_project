@@ -1,0 +1,63 @@
+.todobody{
+    background-color: rgb(243, 157, 243);
+    justify-content: center;
+    text-align: center;
+    height: auto;
+    width: 500px;
+    margin-top: 10%;
+    margin-left: 25%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    
+    
+}
+.todohead{
+    padding: 10px;
+    
+
+}
+ 
+ .NED{
+    display: flex;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(235, 199, 221);
+    border-radius: 5px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+
+ }
+ .inputbox{
+    display: flex;
+    width: 100px;
+    height: 50px;
+   
+ }
+ .ED{
+    display: flex;
+    justify-content: end;
+    
+    
+}
+.deletebtn{
+    
+    border-radius: 5px;
+    color: rgb(18, 18, 19);
+    /* background-color: rgb(115, 121, 119) ; */
+    background-color: rgb(243, 240, 242);
+    position: absolute;
+    left: 670px;
+
+    
+}
+.editbtn{
+    
+    border-radius: 5px;
+    color: rgb(18, 18, 19);
+    /* background-color: rgb(115, 121, 119) ; */
+    background-color: rgb(237, 234, 236);
+    position: absolute;
+    left: 600px;
+    
+}
